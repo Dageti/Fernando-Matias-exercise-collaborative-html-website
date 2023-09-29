@@ -15,17 +15,19 @@ body {
 
 .wer{
     text-align: right;
-}
-.wet{
-    margin-top: 50px;    
+    text-align: justify;
 }
 
+.wet{
+    padding-top: 35px;
+}
 .webtn{
-<<<<<<< HEAD
     align-items: end;
-}
-=======
     padding-top: 30px;
+    padding-bottom: 10px;
 }
+<<<<<<< HEAD
 >>>>>>> 20838992427be17e542d2a6e68b99b471b8a69b8
 
+=======
+>>>>>>> 1f75095cd1b8fb4397c536ebf0ed0a126fe43ba5
