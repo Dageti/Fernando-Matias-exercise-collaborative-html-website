@@ -2,6 +2,11 @@ body{
     background: #BDBDBD;
 }
 
-.nvcolor{
-    background: black;
+.portText{
+    text-align: left;
+    text-justify: auto;
+    display: flex;
+}
+.card{
+    margin-top: 5px;
 }
