@@ -15,12 +15,14 @@ body html{
 
 .wer{
     text-align: right;
-}
-.wet{
-    margin-top: 50px;    
+    text-align: justify;
 }
 
+.wet{
+    padding-top: 35px;
+}
 .webtn{
     align-items: end;
     padding-top: 30px;
+    padding-bottom: 10px;
 }
