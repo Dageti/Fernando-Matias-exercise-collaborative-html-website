@@ -1,5 +1,7 @@
-body{
-    background: #BDBDBD;
+body html{
+    background: white;
+    margin: 0px;
+    padding: 0px;
 }
 
 .portText{
@@ -9,4 +11,15 @@ body{
 }
 .card{
     margin-top: 5px;
+}
+
+.wer{
+    text-align: right;
+}
+.wet{
+    margin-top: 50px;    
+}
+
+.webtn{
+    align-items: end;
 }
