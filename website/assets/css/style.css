@@ -1,4 +1,4 @@
-body html{
+body {
     background: white;
     margin: 0px;
     padding: 0px;
@@ -7,7 +7,6 @@ body html{
 .portText{
     text-align: left;
     text-justify: auto;
-    display: flex;
 }
 .card{
     margin-top: 5px;
@@ -15,7 +14,6 @@ body html{
 
 .wer{
     text-align: right;
-    text-align: justify;
 }
 
 .wet{
@@ -23,6 +21,9 @@ body html{
 }
 .webtn{
     align-items: end;
-    padding-top: 30px;
+    padding-right: 40px;
+    padding-top: 10px;
     padding-bottom: 10px;
 }
+
+
