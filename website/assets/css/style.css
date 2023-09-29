@@ -1,3 +1,25 @@
-body{
-    background: #BDBDBD;
+body html{
+    background: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.portText{
+    text-align: left;
+    text-justify: auto;
+    display: flex;
+}
+.card{
+    margin-top: 5px;
+}
+
+.wer{
+    text-align: right;
+}
+.wet{
+    margin-top: 50px;    
+}
+
+.webtn{
+    align-items: end;
 }
